@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kailash J Choudhary</h1>
-- 🔭 I’m [currently working on upskilling my data analyst skills and building](hands-on projects.)
+- 🔭 I’m currently working on upskilling my data analyst skills and building hands-on projects.)
 
 - 💬 Ask me about **Data Analysis - Power BI Dashboards - Writing SQL Queries**
 
